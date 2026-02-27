@@ -1,11 +1,24 @@
-# affect heuristic analyzer
+# Affect Heuristic Analyzer
 
-Cognitive bias research and practical debiasing tools.
+Analyze how emotions influence risk and benefit perception
 
-## Resources
+## Features
 
-- [KeepRule](https://keeprule.com) - Decision Intelligence
-- [Scenarios](https://keeprule.com/en/scenarios) | [Principles](https://keeprule.com/en/principles)
-- [Masters](https://keeprule.com/en/masters) | [Blog](https://keeprule.com/en/blog)
+- Emotional state decision gating
+- Dread risk vs actual risk comparator
+- Mood-decision correlation tracker
+- Rational override checklist
 
-MIT - *[KeepRule](https://keeprule.com)*
+## Learn More
+
+- [KeepRule](https://keeprule.com) - Complete Decision Intelligence Platform
+- [Decision Scenarios](https://keeprule.com/en/scenarios) - Practice with real cases
+- [Decision Principles](https://keeprule.com/en/principles) - Master frameworks
+- [Decision Masters](https://keeprule.com/en/masters) - Expert thinkers
+- [AI Prompts](https://keeprule.com/en/prompts) - Decision assistance
+- [Blog](https://keeprule.com/en/blog) - Latest insights
+- [FAQ](https://keeprule.com/en/faq) - Common questions
+
+## License
+
+MIT License - [KeepRule](https://keeprule.com)
